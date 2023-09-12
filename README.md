@@ -1,4 +1,4 @@
-<h3 align="center">Climbing my path towards Data Science</h3>
+## Hi there 👋, I'm Gustavo, currently a Business Administration student at Universidade de São Paulo, and a Data Science enthusiast.  
 
 - 🔭 I’m currently working on **Inflation nowcasting and quantitative finance**
 

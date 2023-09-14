@@ -1,9 +1,9 @@
 
 Hi there 👋, I'm Gustavo, currently a Business Administration student at Universidade de São Paulo, and a Data Science enthusiast.  
 
-- 🔭 I’m currently working on **Inflation nowcasting and quantitative finance**
+- 🔭 I’m currently working on **Inflation nowcasting** and **quantitative finance**
 
-- 🌱 I’m currently learning **Machine Learning, Data Analytics and Time Series**
+- 🌱 I’m currently learning **Machine Learning, Data Analytics** and **Time Series**
 
 - 👯 I’m looking to collaborate on **Data Science and AI related projects**
 

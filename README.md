@@ -1,4 +1,4 @@
-
+![Github gif](https://github.com/Gust4242/Gust4242/assets/90975619/825e1c2b-5bee-4dfa-87f2-a822a0ed36ea)
 Hi there 👋, I'm Gustavo, currently a Business Administration student at Universidade de São Paulo, and a Data Science enthusiast.  
 
 - 🔭 I’m currently working on **Inflation nowcasting** and **quantitative finance**
@@ -17,7 +17,7 @@ Hi there 👋, I'm Gustavo, currently a Business Administration student at Unive
 
 - 📄 Know about my experiences [LinkdIn](https://www.linkedin.com/in/gustavo-yuji-osawa-yamachi-4193371a1)
 
-- ⚡ Fun fact **I'm huge Bob Dylan fan**
+- ⚡ Fun fact **I'm a huge Bob Dylan fan**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

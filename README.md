@@ -15,7 +15,7 @@ Hi there 👋, I'm Gustavo, currently a Business Administration student at Unive
 
 - 📫 How to reach me **yamachiyuji2001@outlook.com**
 
-- 📄 Know about my experiences [LinkdIn](https://www.linkedin.com/in/gustavo-yuji-osawa-yamachi-4193371a1)
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/gustavo-yuji-osawa-yamachi-4193371a1)
 
 - ⚡ Fun fact **I'm a huge Bob Dylan fan**
 

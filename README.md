@@ -1,7 +1,7 @@
 ![Github gif](https://github.com/Gust4242/Gust4242/assets/90975619/825e1c2b-5bee-4dfa-87f2-a822a0ed36ea)
 Hi there 👋, I'm Gustavo, currently a Business Administration student at Universidade de São Paulo, and a Data Science enthusiast.  
 
-- 🔭 I’m currently working on **Inflation nowcasting** and **quantitative finance**
+- 🔭 I’m currently working on **Processes automation** and **recomendation algorithms**
 
 - 🌱 I’m currently learning **Machine Learning, Data Analytics** and **Time Series**
 
@@ -9,7 +9,7 @@ Hi there 👋, I'm Gustavo, currently a Business Administration student at Unive
 
 - 🤝 I’m looking for **a first job opportunity in Data Science**
 
-- 📝 I regularly publish for my beloved entity [@FEA.dev](https://www.instagram.com/fea.dev/)
+- 📝 I regularly publish for my entity [@FEA.dev](https://www.instagram.com/fea.dev/)
 
 - 💬 Ask me about **anything. Could be data science, AI or even cinema and books. I'd be glad to help with anything I'm also passionated about**
 
